@@ -1,5 +1,5 @@
 hello this is what i wrote
-@@author mj
+@@author bla
 line 2
 @@author
 line 3
